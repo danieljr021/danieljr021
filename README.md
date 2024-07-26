@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-junior-991a9421b)
 
 ![Daniel Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljr021&show_icons=true&theme=dracula)
+![Daniel Jr GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
