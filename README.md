@@ -1,26 +1,21 @@
 
 ## Olá! Eu sou o Daniel Junior👋🏾
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-junior-00s)
-
 ![Daniel Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljr021&show_icons=true&theme=dracula)
 ![Daniel Jr GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljr021&theme=blue-green)
 
-### Tecnologias que eu estudo
-<div style="display: inline_block"><br/>
- <img align="" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
- <img align="" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-<div><br/>
- 
-### Tecnologias que eu uso no meu dia
-<div style="display: inline_block"><br/>
- <img align="" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
- <img align="" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- <img align="" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="" alt="Json" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<div><br/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dj-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
+  <img align="center" alt="Dj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Dj-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Dj-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Dj-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+</div>
 
-#### Buscando sempre o meu melhor a cada dia!
-<div style="display: inline_block"><br/>
- <img align="" alt="bash" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg"/>
- <div><br/>
+##
+
+<div> 
+  <a href="www.linkedin.com/in/daniel-junior-00s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
