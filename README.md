@@ -20,7 +20,7 @@
  <img align="" alt="Json" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <div><br/>
 
-## Buscando sempre o meu melhor a cada dia!
+# Buscando sempre o meu melhor a cada dia!
 <div style="display: inline_block"><br/>
  <img align="" alt="bash" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg"/>
  <div><br/>
